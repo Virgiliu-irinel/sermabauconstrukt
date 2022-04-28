@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gulp-potomo-js": "^1.0.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
